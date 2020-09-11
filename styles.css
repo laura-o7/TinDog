@@ -79,7 +79,7 @@ p {
 
 .title-img {
   position: absolute;
-    right: 30%;
+  right: 30%;
   transform: rotate(25deg);
   width: 60%;
 }
@@ -154,7 +154,6 @@ p {
 
 /* Media */
 @media (max-width: 1028px) {
-
   #title {
     text-align: center;
   }
@@ -164,7 +163,7 @@ p {
   }
 
   #pricing {
-      padding: 50px;
+    padding: 50px;
   }
 
   .container-fluid {
@@ -191,5 +190,4 @@ p {
     position: static;
     transform: rotate(0);
   }
-
 }
